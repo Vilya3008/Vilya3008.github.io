@@ -1,0 +1,23 @@
+h1{
+	font-size: 72px;
+	color: #2da7c1;
+	font-family: 'Oregano', cursive;
+}
+h2{
+	color: #2da7c1;
+	font-family: 'Nanum+Brush+Script', cursive;
+}
+p{
+	color: #2da7c1;}
+h3{
+	color: #2da7c1;
+	font-family: 'Nanum+Brush+Script', cursive;
+}
+#main {background color: white;}
+body{
+	background-image: url("sky.jpg");
+	background-attachment: fixed;
+	color: black;
+	padding-left: 50px;
+
+}
