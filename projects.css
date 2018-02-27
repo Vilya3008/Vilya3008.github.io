@@ -1,0 +1,28 @@
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	padding-left: 0px;
+	overflow: hidden;
+	background-color: #333;
+}
+ 
+li{float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+ h1{
+	font-size: 72px;
+	color: #2da7c1;
+	font-family: 'Oregano', cursive;
+}
+body{
+	background-image: url("sky.jpg");
+	background-attachment: fixed;
+	color: black;
+	display: grid;
